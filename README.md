@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, moi c'est Fred</h1>
 <h3 align="center">Je suis passionné par le développement web</h3>
 
-- 🔭 Actuellement je travaille sur 2 projets, l'un est personnel et l'autre pour une cliente [application de parking](site web de chambres d'hôtes)
+- 🔭 Actuellement je travaille sur 2 projets, l'un est personnel et l'autre pour une cliente : application de parking et un site web de chambres d'hôtes
 
 - 🌱 Actuellement, j'approfondis mes connaissances en **JS et REACT**
 
 - 👨‍💻 Certains de mes projets sont disponibles [https://fred-webdev-portfolio.netlify.app/](https://fred-webdev-portfolio.netlify.app/)
 
-- 💬 Mes connaissances en Back-end **PHP, SQL ,MySql, PhpMyAdmin**
+- 💬 Mes connaissances en Back-end : **PHP, SQL ,MySql, PhpMyAdmin**
 
 - 📫 Pour me contacter **f.roblot.coulanges@gmail.com**
 
