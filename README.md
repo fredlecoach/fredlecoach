@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, moi c'est Fred</h1>
 <h3 align="center">Je suis passionné par le développement web</h3>
 
-- 🔭 Actuellement je travaille sur 2 projets, l'un est personnel et l'autre pour une cliente : application de parking et un site web de chambres d'hôtes
+- 🔭 Actuellement je travaille sur un projet personnel : une application de parking qui permet de trouver des places de stationnement partout en France
 
-- 🌱 Actuellement, j'approfondis mes connaissances en **JS et REACT**
+- 🌱 Actuellement, j'approfondis mes connaissances en **JS, REACT** et Vue.js
 
 - 👨‍💻 Certains de mes projets sont disponibles sur mon portfolio : [https://fred-webdev-portfolio.netlify.app/](https://fred-webdev-portfolio.netlify.app/)
 
