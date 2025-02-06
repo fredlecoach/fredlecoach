@@ -5,7 +5,7 @@
 
 - 🌱 Actuellement, j'approfondis mes connaissances en **JS, REACT** et Vue.js
 
-- 👨‍💻 Certains de mes projets sont disponibles sur mon portfolio : [https://fred-webdev-portfolio.netlify.app/](https://fred-webdev-portfolio.netlify.app/)
+- 👨‍💻 Certains de mes projets sont disponibles sur mon portfolio : [https://fred-webdev-portfolio.netlify.app/](https://frcportfolio.netlify.app/)
 
 - 💬 Mes connaissances en Back-end : **PHP, SQL ,MySql, PhpMyAdmin**
 
